@@ -1,0 +1,23 @@
+** FME Addons: Google Auto-fill Address on Checkout, Order & Account Page **
+
+2022-09-26 - version 1.0.6
+* Fixed garbage values issue
+
+2021-09-08 - version 1.0.5
+* Resolved Issue on order page
+
+2021-09-08 - version 1.0.4
+* Fixed Minor Issue
+
+2021-08-12 - version 1.0.3
+* Fixed Issues of account page
+
+2021-08-05 - version 1.0.2
+* Fixed Issues on checkout
+* Added Customizable message if shipping or selling not available on selected country
+
+2020-12-01 - version 1.0.1
+* Update Instruction For API KEY 
+
+2020-09-22 - version 1.0.0
+* Initial Release
